@@ -6,6 +6,10 @@ Hey there! I'm using GitHub!
 
 I am a software developer, I have been working in this field (and related) since 2010. I love coding, it's my passion ❤️
 
+## GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciuliene&hide=stars)
+
 ## Experience
 
 This is the (partial) list of technologies I used or I have been using (sorted by name):
