@@ -10,12 +10,13 @@ I am a software developer, I have been working in this field (and related) since
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciuliene&hide=stars&show=reviews&show_icons=true&theme=dark)
 
-## Learning
+## Learning ![](https://img.shields.io/badge/How-not_to_waste_my_time-blue)
+
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-## Experience
+## Experience ![](https://img.shields.io/badge/Partial-orange)
 
-This is the (partial) list of technologies I used or I have been using (sorted by name):
+This is the list of technologies I used or I have been using (sorted by name):
 
 ### Programming Languages
 
