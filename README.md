@@ -10,6 +10,8 @@ I am a software developer, I have been working in this field (and related) since
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciuliene&hide=stars&show=reviews&show_icons=true&theme=dark)
 
+## Learning
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## Experience
 
