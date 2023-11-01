@@ -4,7 +4,7 @@ Hey there! I'm using GitHub!
 
 ## Description
 
-I am a software developer, I have been working in this field (and related) since 2010. I love coding, it's my passion ❤️
+I am a software developer, I have been working in this field (and related) since 2010. I love coding ❤️
 
 ## GitHub Stats
 
