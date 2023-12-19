@@ -12,7 +12,9 @@ I am a software developer, I have been working in this field (and related) since
 
 ## Learning ![](https://img.shields.io/badge/How-not_to_waste_my_time-blue)
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+[Here](https://github.com/alexandresanlim/Badges4-README.md-Profile) you can find a lot of badges to use.
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Experience ![](https://img.shields.io/badge/Partial-orange)
 
