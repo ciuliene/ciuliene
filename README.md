@@ -8,7 +8,7 @@ I am a software developer, I have been working in this field (and related) since
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciuliene&hide=stars&show=reviews&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciuliene&show=reviews&show_icons=true&theme=dark)
 
 ## Learning ![](https://img.shields.io/badge/How-not_to_waste_my_time-blue)
 
